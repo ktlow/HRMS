@@ -1,0 +1,940 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\controllers\\hrmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\controllers\\hrmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\controllers\\jobhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\controllers\\jobhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\repositories\\jobhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\repositories\\jobhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\models\\jobhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\models\\jobhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\entities\\jobhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\entities\\jobhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\interfaces\\ijobhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\interfaces\\ijobhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\configurations\\jobhistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\configurations\\jobhistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\data\\hrmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\data\\hrmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\repositories\\jobrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\repositories\\jobrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.tests\\controllers\\departmentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|solutionrelative:hrms.tests\\controllers\\departmentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\data\\hrmsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\data\\hrmsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\controllers\\jobrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\controllers\\jobrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\models\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\models\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.tests\\controllers\\employeerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|solutionrelative:hrms.tests\\controllers\\employeerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\entities\\jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\entities\\jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\migrations\\20250503193746_removeredundantforeignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\migrations\\20250503193746_removeredundantforeignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\migrations\\20250503193221_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\migrations\\20250503193221_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\configurations\\jobroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\configurations\\jobroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\hrms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\hrms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.api\\hrms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14E0AB02-E10C-8BAA-A03F-BDD02BA64DA3}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\hrms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.tests\\hrms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|solutionrelative:hrms.tests\\hrms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.tests\\controllers\\locationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|solutionrelative:hrms.tests\\controllers\\locationrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.tests\\controllers\\jobrolerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|solutionrelative:hrms.tests\\controllers\\jobrolerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.tests\\controllers\\jobhistoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36EC57-054B-41C8-AEE0-79565E6BDCAB}|HRMS.Tests\\HRMS.Tests.csproj|solutionrelative:hrms.tests\\controllers\\jobhistoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\interfaces\\ijobrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\interfaces\\ijobrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.core\\hrms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{822206E7-787D-4F7C-9A9D-50BCAC118CB2}|HRMS.Core\\HRMS.Core.csproj|solutionrelative:hrms.core\\hrms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Models\\CreateEmployeeRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\Models\\CreateEmployeeRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|c:\\users\\khong\\source\\repos\\hrms_backend\\hrms.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62993207-9A02-451F-93EA-9877E3DE3A23}|HRMS.Infrastructure\\HRMS.Infrastructure.csproj|solutionrelative:hrms.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Models\\EmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\Models\\EmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\HRMS.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\HRMS.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Controllers\\HRMSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\Controllers\\HRMSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\HRMS.API.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMS_Backend\\HRMS.API.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\JobHistoryRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Repositories\\JobHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\JobHistoryRepository.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Repositories\\JobHistoryRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:20:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRMSController.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\HRMSController.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Controllers\\HRMSController.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\HRMSController.cs",
+              "RelativeToolTip": "HRMS.API\\Controllers\\HRMSController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:44:29.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "HRMS.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:36:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\JobHistoryController.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Controllers\\JobHistoryController.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\JobHistoryController.cs",
+              "RelativeToolTip": "HRMS.API\\Controllers\\JobHistoryController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:53:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobHistory.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\JobHistory.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Entities\\JobHistory.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\JobHistory.cs",
+              "RelativeToolTip": "HRMS.Core\\Entities\\JobHistory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:36:34.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\JobHistoryDto.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Models\\JobHistoryDto.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\JobHistoryDto.cs",
+              "RelativeToolTip": "HRMS.API\\Models\\JobHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:41:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Program.cs",
+              "RelativeToolTip": "HRMS.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:19:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJobHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IJobHistoryRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Interfaces\\IJobHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IJobHistoryRepository.cs",
+              "RelativeToolTip": "HRMS.Core\\Interfaces\\IJobHistoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:34:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRMSDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Data\\HRMSDbContext.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Data\\HRMSDbContext.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Data\\HRMSDbContext.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Data\\HRMSDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:15:32.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobHistoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\JobHistoryConfiguration.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Configurations\\JobHistoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\JobHistoryConfiguration.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Configurations\\JobHistoryConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:08:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Models\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\DepartmentDto.cs",
+              "RelativeToolTip": "HRMS.API\\Models\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:29:39.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "HRMS.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:11:07.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "HRMS.API\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:40:41.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\Department.cs",
+              "RelativeToolTip": "HRMS.Core\\Entities\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:35:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:16:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\JobRoleRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Repositories\\JobRoleRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\JobRoleRepository.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Repositories\\JobRoleRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:07:22.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:16:13.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HRMS.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:14:26.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepartmentRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\DepartmentRepositoryTests.cs",
+              "RelativeDocumentMoniker": "HRMS.Tests\\Controllers\\DepartmentRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\DepartmentRepositoryTests.cs",
+              "RelativeToolTip": "HRMS.Tests\\Controllers\\DepartmentRepositoryTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:02:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:08:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HRMSDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Data\\HRMSDbContextFactory.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Data\\HRMSDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Data\\HRMSDbContextFactory.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Data\\HRMSDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:07:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMS.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\appsettings.json",
+              "RelativeToolTip": "HRMS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T18:10:17.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JobRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\JobRoleController.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Controllers\\JobRoleController.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Controllers\\JobRoleController.cs",
+              "RelativeToolTip": "HRMS.API\\Controllers\\JobRoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:17:58.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\JobDto.cs",
+              "RelativeDocumentMoniker": "HRMS.API\\Models\\JobDto.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\Models\\JobDto.cs",
+              "RelativeToolTip": "HRMS.API\\Models\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:19:20.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\EmployeeRepositoryTests.cs",
+              "RelativeDocumentMoniker": "HRMS.Tests\\Controllers\\EmployeeRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\EmployeeRepositoryTests.cs",
+              "RelativeToolTip": "HRMS.Tests\\Controllers\\EmployeeRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:01:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:16:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Repositories\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Repositories\\LocationRepository.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Repositories\\LocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T02:31:22.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Entities\\Location.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\Location.cs",
+              "RelativeToolTip": "HRMS.Core\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:34:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250503193221_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Migrations\\20250503193221_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Migrations\\20250503193221_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Migrations\\20250503193221_InitialCreate.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Migrations\\20250503193221_InitialCreate.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowDcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:33:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JobRole.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\JobRole.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Entities\\JobRole.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Entities\\JobRole.cs",
+              "RelativeToolTip": "HRMS.Core\\Entities\\JobRole.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:35:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250503193746_RemoveRedundantForeignKey.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Migrations\\20250503193746_RemoveRedundantForeignKey.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Migrations\\20250503193746_RemoveRedundantForeignKey.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Migrations\\20250503193746_RemoveRedundantForeignKey.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Migrations\\20250503193746_RemoveRedundantForeignKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:37:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Configurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:16:27.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LocationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\LocationConfiguration.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Configurations\\LocationConfiguration.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\LocationConfiguration.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Configurations\\LocationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:08:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\JobRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Configurations\\JobRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Configurations\\JobRoleConfiguration.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Configurations\\JobRoleConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:46:29.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HRMS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\HRMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\HRMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\HRMS.Infrastructure.csproj",
+              "RelativeToolTip": "HRMS.Infrastructure\\HRMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T16:06:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:05:24.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HRMS.API.csproj",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\HRMS.API.csproj",
+              "RelativeDocumentMoniker": "HRMS.API\\HRMS.API.csproj",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.API\\HRMS.API.csproj",
+              "RelativeToolTip": "HRMS.API\\HRMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T16:19:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "HRMS.Core\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:11:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HRMS.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\HRMS.Tests.csproj",
+              "RelativeDocumentMoniker": "HRMS.Tests\\HRMS.Tests.csproj",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\HRMS.Tests.csproj",
+              "RelativeToolTip": "HRMS.Tests\\HRMS.Tests.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T16:21:13.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IJobRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IJobRoleRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Interfaces\\IJobRoleRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\IJobRoleRepository.cs",
+              "RelativeToolTip": "HRMS.Core\\Interfaces\\IJobRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:03:22.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JobRoleRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\JobRoleRepositoryTests.cs",
+              "RelativeDocumentMoniker": "HRMS.Tests\\Controllers\\JobRoleRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\JobRoleRepositoryTests.cs",
+              "RelativeToolTip": "HRMS.Tests\\Controllers\\JobRoleRepositoryTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAxwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:03:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "HRMS.Core\\Interfaces\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\Interfaces\\ILocationRepository.cs",
+              "RelativeToolTip": "HRMS.Core\\Interfaces\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:04:09.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LocationRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\LocationRepositoryTests.cs",
+              "RelativeDocumentMoniker": "HRMS.Tests\\Controllers\\LocationRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\LocationRepositoryTests.cs",
+              "RelativeToolTip": "HRMS.Tests\\Controllers\\LocationRepositoryTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:05:00.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "JobHistoryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\JobHistoryServiceTests.cs",
+              "RelativeDocumentMoniker": "HRMS.Tests\\Controllers\\JobHistoryServiceTests.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Tests\\Controllers\\JobHistoryServiceTests.cs",
+              "RelativeToolTip": "HRMS.Tests\\Controllers\\JobHistoryServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:21:28.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Program.cs",
+              "RelativeToolTip": "HRMS_Backend\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:40:35.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Models\\CreateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "HRMS_Backend\\Models\\CreateEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Models\\CreateEmployeeRequest.cs",
+              "RelativeToolTip": "HRMS_Backend\\Models\\CreateEmployeeRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:46:02.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMS_Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\appsettings.json",
+              "RelativeToolTip": "HRMS_Backend\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T15:40:12.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HRMS.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\HRMS.Core.csproj",
+              "RelativeDocumentMoniker": "HRMS.Core\\HRMS.Core.csproj",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Core\\HRMS.Core.csproj",
+              "RelativeToolTip": "HRMS.Core\\HRMS.Core.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T16:07:42.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "HRMS_Backend\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "HRMS_Backend\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:45:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HRMS.API.csproj",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\HRMS.API.csproj",
+              "RelativeDocumentMoniker": "HRMS_Backend\\HRMS.API.csproj",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\HRMS.API.csproj",
+              "RelativeToolTip": "HRMS_Backend\\HRMS.API.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T15:55:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HRMS_Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HRMS_Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T15:40:43.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HRMSController.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Controllers\\HRMSController.cs",
+              "RelativeDocumentMoniker": "HRMS_Backend\\Controllers\\HRMSController.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Controllers\\HRMSController.cs",
+              "RelativeToolTip": "HRMS_Backend\\Controllers\\HRMSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:31:53.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HRMS_Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HRMS_Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:40:41.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "InfrastructureServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "HRMS.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeToolTip": "HRMS.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:17:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HRMS.API.csproj",
+              "DocumentMoniker": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\HRMS.API.csproj",
+              "RelativeDocumentMoniker": "HRMS_Backend\\HRMS.API.csproj",
+              "ToolTip": "C:\\Users\\khong\\source\\repos\\HRMS_Backend\\HRMS_Backend\\HRMS.API.csproj",
+              "RelativeToolTip": "HRMS_Backend\\HRMS.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T15:40:59.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\bin\Debug\net8.0\HRMS.Core.deps.json
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\bin\Debug\net8.0\HRMS.Core.dll
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\bin\Debug\net8.0\HRMS.Core.pdb
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\HRMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\HRMS.Core.AssemblyInfoInputs.cache
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\HRMS.Core.AssemblyInfo.cs
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\HRMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\HRMS.Core.dll
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\refint\HRMS.Core.dll
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\HRMS.Core.pdb
+C:\Users\khong\source\repos\HRMS_Backend\HRMS.Core\obj\Debug\net8.0\ref\HRMS.Core.dll
