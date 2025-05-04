@@ -1,0 +1,56 @@
+## Ignore Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## ASP.NET temporary files
+*~.tmp
+*.tmp
+
+## Auto-generated files
+Generated_Code/
+TestResults/
+*.log
+
+## User-specific files
+*.userprefs
+*.sln.docstates
+
+## Rider IDE
+.idea/
+
+## NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+## Dotnet tools and settings
+.project/
+*.dbmdl
+*.bak
+*.pdb
+
+## Git-related
+*.orig
+*.rej
+
+## Logs
+*.log
+
+## Coverage & Analysis
+coverage/
+coverage*.json
+coverage*.xml
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+## Other
+_ReSharper*/
+*.DotSettings.user
